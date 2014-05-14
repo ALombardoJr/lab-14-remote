@@ -1,1 +1,4 @@
 Directory Listing on Remote Server
+foureyes.in
+alombardo@foureyes:~$ ls
+one.txt  public_html  three.txt  two.txt
